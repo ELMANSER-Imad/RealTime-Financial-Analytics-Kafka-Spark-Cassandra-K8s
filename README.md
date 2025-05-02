@@ -49,7 +49,7 @@ Nous commencerons par écrire un service Python long-running qui s'abonne au suj
 Ceci est quelque chose que j'ai ajouté à des fins de test pour valider que le cluster Kafka était correctement configuré et que l'application productrice tirait correctement les données du websocket et les envoyait au sujet Kafka. Cela m'a certainement aidé à déboguer les problèmes de formatage liés aux conversions AVRO avant de rédiger l'application de traitement Spark.
 
 Voici un exemple de sortie console de l'application de test consumer qui lisait depuis Kafka, décodait AVRO et imprimait le contenu à la console :
-![Exemple Consumer](docs/consumer-test.png)
+
 
 ---
 
@@ -90,4 +90,4 @@ Grafana vous permet de personnaliser vos visualisations avec diverses options, t
 
 ---
 
-**Watermark: Imad Elmanser**
+**Imad Elmanser**
