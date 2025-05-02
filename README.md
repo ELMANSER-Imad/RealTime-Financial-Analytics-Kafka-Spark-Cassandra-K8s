@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Time Stock Tracker Pipeline
 This project is a data streaming pipeline for Finnhub stock market ticker data using Kafka, Spark, Cassandra. This project is intended to showcase the setup of an end-to-end containerised data streaming pipeline that is highly scalable.
 
@@ -73,3 +74,6 @@ Grafana allows you to customize your visualizations with a variety of options, s
 * Clean up CI/CD and use Kubernetes to orchestrate the docker containers.
 * Integrate Grafana free tier monitoring for Kafka server & Kubernetes.
 * Add multiple stock tickers and add more aggregated views such as hourly comparisons or anomaly detection.
+=======
+# RealTime-Financial-Analytics-Kafka-Spark-Cassandra-K8s
+>>>>>>> 4fa3e0556e6a862244305b5a180f5e3d385e1d8f
